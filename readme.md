@@ -1,6 +1,6 @@
 # Dating Website Project
 
-website link : https://udaydarade.github.io/projects/submission/index.html
+Created by : Yatharth Kulsange
 
 ## Overview
 
